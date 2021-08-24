@@ -1,0 +1,20 @@
+{
+  "name": "shaynox-v13-bos-altyapi",
+  "version": "3.0.0",
+  "description": "Shaynox Code v13 boş altyapı",
+  "main": "shaynox.js",
+  "scripts": {
+    "start": "node shaynox.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0",
+    "fs": "^0.0.2",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
